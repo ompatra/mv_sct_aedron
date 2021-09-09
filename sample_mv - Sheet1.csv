@@ -1,0 +1,20 @@
+qid,title ,subcategory,category
+700101,Oracle MySQL April 2021 Critical Patch Update,Remote Discovery,Oracle
+710121,Raritan Default Credential Detected,Remote Discovery,Raritan
+701213,Grafana Default Credentials Detected,Remote Discovery,Grafana
+704923,Palo Alto Networks PAN-OS Improper SAML Authentication Vulnerability in GlobalProtect Portal,PANOS Authenticated Discovery,PANOS
+705479,Palo Alto Networks PAN-OS Weak Cryptography Used in Web Interface Authentication,PANOS Authenticated Discovery,PANOS
+706035,Gentoo Linux Mozilla Thunderbird and Multiple Vulnerabilities,Unix Authenticated Discovery ,Gentoo
+706591,Gentoo Linux GlusterFS Multiple Vulnerabilities ,Unix Authenticated Discovery ,GlusterFS
+707147,Gentoo Linux BURP Root Privilage Escalation Vulnerability ,Unix Authenticated Discovery ,BURP
+707703,Poppler Multiple Vulnerability ,Unix Authenticated Discovery ,Poppler
+708259,Unbound Multiple Vulnerability ,Unix Authenticated Discovery ,Unbound
+708815,Libical Multiple Vulnerability ,Unix Authenticated Discovery ,Libical
+709371,Cario Denial of Service Vulnerability,Unix Authenticated Discovery ,Cario
+709927,Gentoo Linux Chromium Multiple Vulnerbilities,Unix Authenticated Discovery ,Chromium 
+710483,ZeroMQ Code Execution Vulnerbility,Unix Authenticated Discovery ,ZeroMQ
+711039,Apache Multiple Vulnerabilites,Unix Authenticated Discovery ,Apache 
+711595,Gentoo Linux Cabextact ,Authenticated Discovery,Gentoo
+712151,Gentoo Linux NASM Multiple Vulnerability ,Unix Authenticated Discovery ,NASM
+702134,Gentoo Linux SDL2_Image Multiple Vulnerability ,Unix Authenticated Discovery ,SDL2
+717123,Palo Alto Networks PAN-OS OS Command Injection Vulnerability in Web Interface,PANOS Authenticated Discovery,PANOS

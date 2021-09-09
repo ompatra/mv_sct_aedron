@@ -1,0 +1,31 @@
+qid,title ,subcategory
+700101,Oracle MySQL April 2021 Critical Patch Update,Remote Discovery
+710121,Raritan Default Credential Detected,Remote Discovery
+700123,CBL-Mariner Linux Security Update For GoLang,Authenticated Discovery
+701213,Grafana Default Credentials Detected,Remote Discovery
+704923,Palo Alto Networks PAN-OS Improper SAML Authentication Vulnerability in GlobalProtect Portal,PANOS Authenticated Discovery
+705479,Palo Alto Networks PAN-OS Weak Cryptography Used in Web Interface Authentication,PANOS Authenticated Discovery
+700799,Microsoft Dynamics Business Central Cross-site (XSS) scripting,Windows Autheticated Discovery
+706035,Gentoo Linux Mozilla Thunderbird and Multiple Vulnerabilities,Unix Authenticated Discovery 
+706591,Gentoo Linux GlusterFS Multiple Vulnerabilities ,Unix Authenticated Discovery 
+707147,Gentoo Linux BURP Root Privilage Escalation Vulnerability ,Unix Authenticated Discovery 
+707703,Poppler Multiple Vulnerability ,Unix Authenticated Discovery 
+700122,Debian Security Update for Firefox,Unix Authenticated Discovery 
+708259,Unbound Multiple Vulnerability ,Unix Authenticated Discovery 
+708815,Libical Multiple Vulnerability ,Unix Authenticated Discovery 
+709371,Cario Denial of Service Vulnerability,Unix Authenticated Discovery 
+700987,CentOS Security Update,Authenticated Discovery
+709927,Gentoo Linux Chromium Multiple Vulnerbilities,Unix Authenticated Discovery 
+710483,ZeroMQ Code Execution Vulnerbility,Unix Authenticated Discovery 
+700567,SUSE Enterprise Linux Security Update ,Unix Authenticated Discovery 
+711039,Apache Multiple Vulnerabilites,Unix Authenticated Discovery 
+711595,Gentoo Linux Cabextact ,Authenticated Discovery
+700865,Siemens Industrial Products Multiple Vulnerabilities ,Remote Discovery
+712151,Gentoo Linux NASM Multiple Vulnerability ,Unix Authenticated Discovery 
+700357,EulerOS Security Update for Squid,Authenticated Discovery
+702134,Gentoo Linux SDL2_Image Multiple Vulnerability ,Unix Authenticated Discovery 
+700824,Cisco Firepower Device Manager On-Box Software Remote Code Update,Authenticated Discovery
+717123,Palo Alto Networks PAN-OS OS Command Injection Vulnerability in Web Interface,PANOS Authenticated Discovery
+700268,Red Hat Update for Firefox,Unix Authenticated Discovery 
+700217,McAfee Web Gateway Multiple Vulnerabilities,Authenticated Discovery
+700172,Atlassian Jira Server Information Disclosure Vulnerabilities,Authenticated Discovery
